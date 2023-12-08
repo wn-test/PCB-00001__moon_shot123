@@ -1,0 +1,70 @@
+[Design]
+Version = 1.0
+HeirarchyMode = 0
+CurrentVariant = A
+
+[Document1]
+DocumentPath = moon_shot123__TOP_LEVEL__A.SchDoc
+
+[Document2]
+DocumentPath = moon_shot123__A.PcbDoc
+
+[Document3]
+DocumentPath = moon_shot123__Fab_A.PCBDwf
+
+[Document4]
+DocumentPath = moon_shot123__Assy_A.PCBDwf
+
+[Document5]
+DocumentPath = moon_shot123__A.OutJob
+
+[Document6]
+DocumentPath = moon_shot123__A.BomDoc
+
+[Document7]
+DocumentPath = BOM_Template.xlsx
+
+[Parameter1]
+Name = CCA_PART_NUMBER
+Value = CCA-00001
+
+[Parameter2]
+Name = CCA_TITLE
+Value = moon_shot123
+
+[Parameter3]
+Name = PCB_PART_NUMBER
+Value = moon_shot123
+
+[Parameter4]
+Name = PCB_VERSION
+Value = A
+
+[Parameter5]
+Name = PROJECT_ENGINEER
+Value = plexus
+
+[Parameter6]
+Name = PROJECT_STATUS
+Value = PROTOTYPE
+
+[Parameter7]
+Name = PROJECT_TITLE_LINE_1
+Value = RT685 Audio Platform
+
+[Parameter8]
+Name = PROJECT_TITLE_LINE_2
+Value = 
+
+[Parameter9]
+Name = SCH_DATE
+Value = 2023-12-08
+
+[ProjectVariant1]
+UniqueID = 98E5D750-E1AD-424A-A7EB-35DC2211D8AA
+Description = A
+AllowFabrication = 1
+ParameterCount = 0
+VariationCount = 0
+ParamVariationCount = 0
+
